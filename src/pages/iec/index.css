@@ -1,0 +1,26 @@
+.iec-text {
+    width: 60%;
+    margin: 20px auto;
+    color: #56595c;
+    text-align: justify;
+    line-height: 30px;
+    font-size: 20px;
+}
+.iec-text h1 {
+    color: #0580c6;
+    text-align: center;
+    margin: 30px auto;
+}
+
+.iec-text h3 {
+    color: #0580c6;
+    margin: 30px auto;
+}
+.iec-text li {
+    margin: 20px auto;
+}
+@media only screen and (max-width: 768px){
+    .iec-text {
+        width: 80%;
+    }
+}

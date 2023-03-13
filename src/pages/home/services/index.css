@@ -1,0 +1,42 @@
+.services-container {
+  padding: 5% 10%;
+  background-color: #ffffff;
+  text-align: center;
+}
+.cards-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.services-head {
+    padding-bottom: 20px;
+    position: relative;
+}
+.services-head > h1 {
+    font-weight: 800;
+    font-size: 34px;
+    color: #0580c6;
+    margin: 0 auto;
+}
+.services-head > p {
+    width: 80%;
+    color: #56595c;
+    line-height: 26px;
+    font-size: 14px;
+    margin: 0 auto;
+}
+.services-head::after {
+    content: '';
+    display: inline-block;
+    width: 50px;
+    height: 1px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    margin: auto;
+    right: 0;
+    background-color: #6aa323;
+    width: 50px;
+    height: 6px;
+}

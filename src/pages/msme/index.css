@@ -1,0 +1,26 @@
+.msme-text {
+    width: 60%;
+    margin: 20px auto;
+    color: #56595c;
+    text-align: justify;
+    line-height: 30px;
+    font-size: 20px;
+}
+.msme-text h1 {
+    color: #0580c6;
+    text-align: center;
+    margin: 30px auto;
+}
+
+.msme-text h3 {
+    color: #0580c6;
+    margin: 30px auto;
+}
+.msme-text li {
+    margin: 20px auto;
+}
+@media only screen and (max-width: 768px){
+    .msme-text {
+        width: 80%;
+    }
+}

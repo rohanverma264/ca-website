@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ef9c529e.css",
+    "main.js": "/static/js/main.8236b001.js",
+    "static/js/787.f5a4e6cb.chunk.js": "/static/js/787.f5a4e6cb.chunk.js",
+    "static/media/gst.png": "/static/media/gst.a15645b84a124e8e1750.png",
+    "static/media/roc.jpg": "/static/media/roc.9a1851c23b9eb8c2dcd8.jpg",
+    "static/media/banner2.jpg": "/static/media/banner2.c0300846e5558cc534de.jpg",
+    "static/media/banner3.jpg": "/static/media/banner3.ab9a4884ec76797ba3fd.jpg",
+    "static/media/about-us.jpg": "/static/media/about-us.b5991301f9be802ade27.jpg",
+    "static/media/services.jpg": "/static/media/services.dc5021dae92f68f6f13c.jpg",
+    "static/media/banner1.jpg": "/static/media/banner1.7c947cb15fd18ae3025d.jpg",
+    "static/media/company-formation.jpg": "/static/media/company-formation.3a08b180080d591e4b92.jpg",
+    "static/media/about-page-bg.jpg": "/static/media/about-page-bg.645be7da9b37e0032f9e.jpg",
+    "static/media/iec.avif": "/static/media/iec.f01c74f58fbdb263b1ee.avif",
+    "static/media/about-img.jpg": "/static/media/about-img.30e702ed873e1ced27bb.jpg",
+    "static/media/msme.png": "/static/media/msme.9f49892f4e8f37c24656.png",
+    "static/media/logo.png": "/static/media/logo.03de42d5af03691910e7.png",
+    "static/media/company.jpg": "/static/media/company.adbbf9109f03df863af0.jpg",
+    "static/media/tax.webp": "/static/media/tax.c122f75825f3a5004be7.webp",
+    "static/media/Financial-services.jpg": "/static/media/Financial-services.fbc4da8297240dafb40c.jpg",
+    "static/media/cma.avif": "/static/media/cma.d944061fde561a70de21.avif",
+    "static/media/trade-license.jpg": "/static/media/trade-license.e1f107d612f08779b86d.jpg",
+    "static/media/Printing.jpg": "/static/media/Printing.5b81334add8c30205980.jpg",
+    "index.html": "/index.html",
+    "main.ef9c529e.css.map": "/static/css/main.ef9c529e.css.map",
+    "main.8236b001.js.map": "/static/js/main.8236b001.js.map",
+    "787.f5a4e6cb.chunk.js.map": "/static/js/787.f5a4e6cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef9c529e.css",
+    "static/js/main.8236b001.js"
+  ]
+}
